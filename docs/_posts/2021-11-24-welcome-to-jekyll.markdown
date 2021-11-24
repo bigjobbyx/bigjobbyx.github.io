@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-11-24 17:22:25 +0000
-categories: jekyll update
+layout: page
+title: "PAGE TITLE"
+permalink: /bigjobbyx.github.io/page
 ---
+
 Woop woop
  
 
