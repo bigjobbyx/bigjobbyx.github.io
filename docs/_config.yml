@@ -33,7 +33,8 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-plugins: [jekyll-youtube]
+  - jekyll-youtube
+
  # This will require each of these gems automatically.
 # Exclude from processing.
 # The following items will not be processed, by default.
