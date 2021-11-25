@@ -11,5 +11,4 @@ categories: jekyll update
 <iframe src='https://www.youtube.com/embed/lg8L9AltV-E' frameborder='0' allowfullscreen></iframe></div>
 
 
- {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
 
