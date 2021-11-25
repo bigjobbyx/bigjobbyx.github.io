@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support
-permalink: /Juzo/
+permalink: /juzo/
 ---
 
 <div>
