@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-youtube
-
+  - jekyll-seo-tag
  # This will require each of these gems automatically.
 # Exclude from processing.
 # The following items will not be processed, by default.
