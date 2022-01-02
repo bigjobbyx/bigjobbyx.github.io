@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Wraps
-permalink: /wraps/
+title: Devices
+permalink: /devices/
 ---
 <!-- Include the CSS & JS.. (This could be direct from the package or bundled) -->
 <link rel="stylesheet" href="/src/lite-yt-embed.css" />
