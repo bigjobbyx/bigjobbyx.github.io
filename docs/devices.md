@@ -1,29 +1,41 @@
 ---
 layout: page
-title: Devices
-permalink: /devices/
+title: Wraps
+permalink: /wraps/
 ---
+<!-- Include the CSS & JS.. (This could be direct from the package or bundled) -->
+<link rel="stylesheet" href="/src/lite-yt-embed.css" />
+
+<script src="/src/lite-yt-embed.js"></script>
+
+<!-- Use the element. You may use it before the lite-yt-embed JS is executed. -->
 
 <div>
-<p>Juzo</p>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/lg8L9AltV-E' frameborder='0' allowfullscreen></iframe>
+<p>Juzo Easy Fit</p>
+<lite-youtube videoid="lg8L9AltV-E" style="background-image: url('https://i.ytimg.com/vi/lg8L9AltV-E/maxresdefault.jpg');" playlabel="Play: Juzo Easy Fit"></lite-youtube>
 </div>
+<br>
+<br>
 
 <div>
 <p>Rolly</p>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/csXEqOBHgMU' frameborder='0' allowfullscreen></iframe>
+<lite-youtube videoid="csXEqOBHgMU" style="background-image: url('https://i.ytimg.com/vi/csXEqOBHgMU/maxresdefault.jpg');" playlabel="Play: Rolly"></lite-youtube>
 </div>
+<br>
+<br>
 
 <div>
 <p>Easy Slide</p>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/77OeZYWBrog' frameborder='0' allowfullscreen></iframe>
+<lite-youtube videoid="77OeZYWBrog" style="background-image: url('https://i.ytimg.com/vi/77OeZYWBrog/maxresdefault.jpg');" playlabel="Play: Easy Slide"></lite-youtube>
 </div>
+<br>
+<br>
 
-</div>
+<div>
 <p>Acti Glide</p>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/F2ldp-klaBc' frameborder='0' allowfullscreen></iframe>
+<lite-youtube videoid="F2ldp-klaBc" style="background-image: url('https://i.ytimg.com/vi/F2ldp-klaBc/maxresdefault.jpg');" playlabel="Play: Acti Glide"></lite-youtube>
 </div>
+<br>
+<br>
+
+
