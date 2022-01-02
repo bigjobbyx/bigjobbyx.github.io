@@ -3,9 +3,15 @@ layout: page
 title: Wraps
 permalink: /wraps/
 ---
+<!-- Include the CSS & JS.. (This could be direct from the package or bundled) -->
+<link rel="stylesheet" href="/src/lite-yt-embed.css" />
 
-<div>
+<script src="/src/lite-yt-embed.js"></script>
+
+<!-- Use the element. You may use it before the lite-yt-embed JS is executed. -->
 <p>JUZO ACS System</p>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe src='https://www.youtube.com/embed/U7tDpdQsTeI' frameborder='0' allowfullscreen></iframe>
-</div>
+<lite-youtube videoid="U7tDpdQsTeI" style="background-image: url('https://i.ytimg.com/vi/U7tDpdQsTeI/maxresdefault.jpg');" playlabel="Play: JUZO ACS System"></lite-youtube>
+
+<br>
+
+
