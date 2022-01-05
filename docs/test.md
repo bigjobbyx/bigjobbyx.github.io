@@ -1,7 +1,7 @@
 ---
 layout: page
-title: test
-permalink: /test/
+title: Wraps
+permalink: /wraps/
 ---
 <!-- Include the CSS & JS.. (This could be direct from the package or bundled) -->
 <link rel="stylesheet" href="/src/lite-yt-embed.css" />
@@ -11,8 +11,8 @@ permalink: /test/
 <!-- Use the element. You may use it before the lite-yt-embed JS is executed. -->
 
 <div>
-<p>Juzo Easy Fit</p>
-<lite-youtube videoid="lg8L9AltV-E" style="background-image: url('https://i.ytimg.com/vi/lg8L9AltV-E/maxresdefault.jpg');" playlabel="Play: Juzo Easy Fit"></lite-youtube>
+<p>Juzo Wrap</p>
+<lite-youtube videoid="U7tDpdQsTeI" style="background-image: url('https://i.ytimg.com/vi/U7tDpdQsTeI/maxresdefault.jpg');" playlabel="Play: Juzo Easy Fit"></lite-youtube>
 </div>
 <br>
 <br>
