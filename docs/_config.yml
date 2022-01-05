@@ -54,3 +54,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+url: bigjobbyx.github.io
+baseurl: /bigjobbyx.github.io
+
