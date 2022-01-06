@@ -1,8 +1,10 @@
 ---
 layout: page
-title: test
-permalink: /test/
+title: Leaflets2
+permalink: /leaflets2/
 ---
+
+
 <style>
 img {
   border: 2px solid #555;
@@ -10,8 +12,15 @@ img {
 </style>
 
 <div style="text-align: center;">
-<p><a href="https://publicdocuments.sth.nhs.uk/pil1352.pdf"><img src="https://i.imgur.com/qnNHKYR.jpg" title="source: imgur.com" /></p>
+<p><a href="https://publicdocuments.sth.nhs.uk/pil1352.pdf">
+<img src="https://i.imgur.com/yHhsGn9.jpg" alt="UlcerPDF" width="66%" height="auto">
+</a></p>
 </div>
 <br>
 
-<img src="https://i.imgur.com/nC4U9Ja.jpg" title="source: imgur.com" />
+<div style="text-align: center;">
+<p><a href="/assets/documents/oedema.pdf">
+<img src="https://i.imgur.com/TOehnDT.jpg" alt="OedemaPDF" width="66%" height="auto">
+</a></p>
+</div>
+<br>
