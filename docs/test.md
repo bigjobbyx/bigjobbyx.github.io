@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Leaflets
-permalink: /leaflets/
+title: test
+permalink: /test/
 ---
 <style>
 img {
