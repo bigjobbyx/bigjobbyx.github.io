@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Leaflets2
-permalink: /leaflets2/
+title: Leaflets
+permalink: /leaflets/
 ---
 
 
