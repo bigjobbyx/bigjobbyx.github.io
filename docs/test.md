@@ -9,4 +9,4 @@ location:
 ---
 
 
-{% google_map %}
+<p>{% google_map %}</p>
