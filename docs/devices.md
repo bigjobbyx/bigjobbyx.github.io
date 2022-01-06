@@ -11,7 +11,7 @@ permalink: /devices/
 <!-- Use the element. You may use it before the lite-yt-embed JS is executed. -->
 
 <div>
-<p>Juzo Easy Fit</p>
+<p>Juzo Easy Fit.</p>
 <lite-youtube videoid="lg8L9AltV-E" style="background-image: url('https://i.ytimg.com/vi/lg8L9AltV-E/maxresdefault.jpg');" playlabel="Play: Juzo Easy Fit"></lite-youtube>
 </div>
 <br>
