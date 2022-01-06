@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-youtube
   - jekyll-seo-tag
+  - jekyll-maps
  # This will require each of these gems automatically.
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,3 +58,7 @@ plugins:
 url: bigjobbyx.github.io
 baseurl: /bigjobbyx.github.io
 
+
+maps:
+  google:
+    api_key: <AIzaSyAeERrlb3AaYolLqaVlL_9l8xzMY1kwl9Q>
