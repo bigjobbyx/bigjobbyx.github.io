@@ -8,3 +8,5 @@ location:
   longitude: -0.2416807
 ---
 
+
+{% google_map %}
