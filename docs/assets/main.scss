@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-
+<style>
 .map-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
@@ -16,3 +16,4 @@
     width:100%;
     position:absolute;
 }
+</style>
