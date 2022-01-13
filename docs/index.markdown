@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+description: AWC Homepage
 ---
 <h1>Find Us</h1>
 <p>Middlewood: Fairlawns Clinic</p>
