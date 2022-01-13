@@ -21,7 +21,7 @@
 title: Sheffield AWC
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-        We Are AWC
+        Sheffield AWC - Ambulatory Wound Clinics serving the population of Sheffield. We have 3 sites located across the city.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
