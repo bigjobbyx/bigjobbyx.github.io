@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Wraps
-permalink: /add/
+title: Placeholder          
+permalink: /zzz/
 ---
-testing robots  
-
+Placeholder
 
