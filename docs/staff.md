@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /devices/
+permalink: /staff/
 ---
 
 <!DOCTYPE html>
