@@ -2,6 +2,7 @@
 permalink: /staff/
 ---
 
+<div>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -301,3 +302,4 @@ permalink: /staff/
   </body>
 </html>
 
+</div>
