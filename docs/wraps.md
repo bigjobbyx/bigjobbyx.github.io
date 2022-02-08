@@ -16,7 +16,8 @@ permalink: /wraps/
 </div>
 <br>
 <br>
+
 <div>
 <p>Circaid Juxtafit  Wrap</p>
-<lite-youtube videoid="ekYU9QgEebM" style="background-image: url('https://i.ytimg.com/vi/ekYU9QgEebM/maxresdefault.jpg');"$
+<lite-youtube videoid="ekYU9QgEebM" style="background-image: url('https://i.ytimg.com/vi/ekYU9QgEebM/maxresdefault.jpg');" playlabel="Play: Juzo Easy Fit"></lite-youtube>
 </div> 
