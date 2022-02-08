@@ -29,9 +29,9 @@ locale: GB
 # Build settings
 
 
-#theme: minima
-#minima:
- # skin: dark
+theme: minima
+minima:
+  skin: dark
 
 #remote_theme: pages-themes/midnight@v0.2.0
 
