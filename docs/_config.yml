@@ -29,7 +29,7 @@ locale: GB
 # Build settings
 
 
-theme: minima
+theme: jekyll-theme-midnight
 minima:
   skin: dark
 
