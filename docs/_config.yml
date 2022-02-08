@@ -29,16 +29,18 @@ locale: GB
 # Build settings
 
 
-theme: minima
+#theme: minima
+#minima:
+ # skin: dark
 
-minima:
-  skin: dark
+remote_theme: pages-themes/midnight@v0.2.0
 
 plugins:
   - jekyll-feed
   - jekyll-youtube
   - jekyll-seo-tag
   - jekyll-maps
+  - jekyll-remote-theme
  # This will require each of these gems automatically.
 # Exclude from processing.
 # The following items will not be processed, by default.
