@@ -13,7 +13,7 @@ img {
 
 <div style="text-align: center;">
 <p><a href="https://publicdocuments.sth.nhs.uk/pil1352.pdf">
-<img src="/assets/ulcer.jpg" alt="UlcerPDF" width="66%" height="auto">
+<img src="https://i.imgur.com/yHhsGn9h.jpg" alt="UlcerPDF" width="66%" height="auto">
 </a></p>
 </div>
 <br>
