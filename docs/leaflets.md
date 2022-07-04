@@ -12,7 +12,7 @@ img {
 </style>
 
 <div>
-< img src="https//bigjobbyx.github.io/assets/images/oedema.jpg" alt="ulcer" width="66%" height="auto">
+<img src="https://bigjobbyx.github.io/assets/images/oedema.jpg" alt="ulcer" width="66%" height="auto">
 </div>
 
 <div style="text-align: center;">
