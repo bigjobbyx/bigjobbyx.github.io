@@ -28,7 +28,7 @@ img {
 
 <div style="text-align: center;">
 <p><a href="https://publicdocuments.sth.nhs.uk/pil2296.pdf">
-<img src="https://imgur.com/a/aqCZMLy.jpg" alt="diabetic foot" width="66%" height="auto">
+<img src="https://i.imgur.com/aqCZMLy.jpg" alt="diabetic foot" width="66%" height="auto">
 </a></p>
 </div>
 <br>
