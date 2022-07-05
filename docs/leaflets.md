@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leaflets. Scroll down for more...
+title: Leaflets
 permalink: /leaflets/
 ---
 
@@ -10,6 +10,8 @@ img {
   border: 2px solid #555;
 }
 </style>
+<h1>Scroll down for more...</h1>
+<br>
 
 <div style="text-align: center;">
 <p><a href="https://publicdocuments.sth.nhs.uk/pil1352.pdf">
