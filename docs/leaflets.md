@@ -14,14 +14,14 @@ img {
 
 <div style="text-align: center;">
 <p><a href="https://publicdocuments.sth.nhs.uk/pil1352.pdf">
-<img src="https://i.imgur.com/yHhsGn9h.jpg" alt="UlcerPDF" width="66%" height="auto">
+<img src="https://lh3.googleusercontent.com/TCM2OO_nLhzl1RNkpul5FAfLWITllbizNpuVGFdWOm-FXkGZfkCas-c9dH3tNbzdZbErdMXUhYx0ex2_l7A1wgo2cLxdiS80fFycRcGH0FkQqc8KgVT0n8ficPEwdi4goxsrgUB2Lkw=w2400" alt="UlcerPDF" width="66%" height="auto">
 </a></p>
 </div>
 <br>
 
 <div style="text-align: center;">
 <p><a href="https://publicdocuments.sth.nhs.uk/pil3760.pdf">
-<img src="https://i.imgur.com/TOehnDTh.jpg" alt="OedemaPDF" width="66%" height="auto">
+<img src="https://lh3.googleusercontent.com/_Nh_Qn4DYlrV6qQ6o6AvE3Vep_LC2ijBbtNuql2q_2Y9HUr5kzAhGsw6hSalphDECV5akKcunujkt1J5XXfz5PB0uDqOPcFDpps0sF9XMPI64REXaaz3LGrSeNLISXyCsREI0d9gACQ=w2400" alt="OedemaPDF" width="66%" height="auto">
 </a></p>
 </div>
 <br>
