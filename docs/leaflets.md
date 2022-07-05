@@ -28,8 +28,7 @@ img {
 
 <div style="text-align: center;">
 <p><a href="https://publicdocuments.sth.nhs.uk/pil2296.pdf">
-<img src="https://imgur.com/gallery/aqCZMLy" alt="diabetic foot" width="66%" height="auto">
+<img src="https://i.imgur.com/aqCZMLy.jpg" alt="diabetic foot" width="66%" height="auto">
 </a></p>
 </div>
 <br>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/aqCZMLy" data-context="false" ><a href="//imgur.com/a/aqCZMLy">diabetic foot</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
