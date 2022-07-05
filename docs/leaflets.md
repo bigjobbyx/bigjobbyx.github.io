@@ -32,3 +32,4 @@ img {
 </a></p>
 </div>
 <br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/aqCZMLy" data-context="false" ><a href="//imgur.com/a/aqCZMLy">diabetic foot</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
