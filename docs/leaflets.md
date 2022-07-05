@@ -11,12 +11,6 @@ img {
 }
 </style>
 
-<div style="text-align: center;">
-<p><a href="https://publicdocuments.sth.nhs.uk/pil3760.pdf">
-<img src="https://bigjobbyx.github.io/assets/images/oedema.jpg" alt="ulcer" width="66%" height="auto">
-</a></p>
-</div>
-<br>
 
 <div style="text-align: center;">
 <p><a href="https://publicdocuments.sth.nhs.uk/pil1352.pdf">
@@ -26,8 +20,15 @@ img {
 <br>
 
 <div style="text-align: center;">
-<p><a href="/assets/documents/oedema.pdf">
+<p><a href="https://publicdocuments.sth.nhs.uk/pil3760.pdf">
 <img src="https://i.imgur.com/TOehnDTh.jpg" alt="OedemaPDF" width="66%" height="auto">
+</a></p>
+</div>
+<br>
+
+<div style="text-align: center;">
+<p><a href="https://publicdocuments.sth.nhs.uk/pil2296.pdf">
+<img src="https://imgur.com/a/aqCZMLy.jpg" alt="diabetic foot" width="66%" height="auto">
 </a></p>
 </div>
 <br>
