@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leaflets
+title: Leaflets: Scroll down for more...
 permalink: /leaflets/
 ---
 
