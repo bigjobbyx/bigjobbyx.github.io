@@ -5,13 +5,11 @@ permalink: /pathway/
 ---
 
 
-[Download  here][1]
+[Download vd  here][1]
 
 [1]:{{ site.url }}/download/path.docx
 
-[Download  here][1]
-
-[1]:{{ site.url }}/download/path.docx
+ 
 
 
 [Download here][1]
