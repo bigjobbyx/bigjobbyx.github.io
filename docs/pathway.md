@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Pathway
+title: Lower Limb Management Pathway
 permalink: /pathway/
 ---
 
 
-[Download the LOWER LIMB WOUND MANAGEMENT PATHWAY here](https://link-url-here.org)
+[Download here](https://github.com/bigjobbyx/bigjobbyx.github.io/blob/gh-pages/docs/assets/documents/LOWER%20LIMB%20WOUND%20MANAGEMENT%20PATHWAY%20V2%20Review%2013.04.22%20final%20(002).docx)
