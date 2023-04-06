@@ -1,17 +1,13 @@
 ---
 layout: page
-title: Pathway
+title: Lower leg management Pathway
 permalink: /pathway/
 ---
 
 
-[Download  here][1]
+ 
 
-[1]:https://github.com/bigjobbyx/bigjobbyx.github.io/blob/gh-pages/download/path.docx?raw=true
-
-<object data="../assets/path.docx"></object>
-
-<a href="../assets/path.docx">Download File</a>
+<a href="../assets/path.docx">Download here</a>
 
  
 
