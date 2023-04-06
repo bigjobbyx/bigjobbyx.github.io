@@ -11,6 +11,8 @@ permalink: /pathway/
 
 <object data="../assets/path.docx"></object>
 
+<a href="../assets/path.docx">Download File</a>
+
  
 
 
