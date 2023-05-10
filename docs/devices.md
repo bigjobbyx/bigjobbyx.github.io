@@ -11,7 +11,7 @@ permalink: /devices/
 <!-- Use the element. You may use it before the lite-yt-embed JS is executed. -->
 
 <div>
-<p>Rolly</p>
+<p>Medi-Butler</p>
 <lite-youtube videoid="wU3fnH_34NA" style="background-image: url('https://i.ytimg.com/vi/wU3fnH_34NA/maxresdefault.jpg');" playlabel="Play: Medi-Butler"></lite-youtube>
 </div>
 <br>
