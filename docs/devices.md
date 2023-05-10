@@ -12,6 +12,13 @@ permalink: /devices/
 
 <div>
 <p>Rolly</p>
+<lite-youtube videoid="wU3fnH_34NA" style="background-image: url('https://i.ytimg.com/vi/wU3fnH_34NA/maxresdefault.jpg');" playlabel="Play: Medi-Butler"></lite-youtube>
+</div>
+<br>
+<br>
+
+<div>
+<p>Rolly</p>
 <lite-youtube videoid="csXEqOBHgMU" style="background-image: url('https://i.ytimg.com/vi/csXEqOBHgMU/maxresdefault.jpg');" playlabel="Play: Rolly"></lite-youtube>
 </div>
 <br>
