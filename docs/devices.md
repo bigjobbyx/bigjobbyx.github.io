@@ -18,7 +18,7 @@ permalink: /devices/
 <br>
 
 <div>
-<p>Rolly.</p>
+<p>Rolly</p>
 <lite-youtube videoid="csXEqOBHgMU" style="background-image: url('https://i.ytimg.com/vi/csXEqOBHgMU/maxresdefault.jpg');" playlabel="Play: Rolly"></lite-youtube>
 </div>
 <br>
