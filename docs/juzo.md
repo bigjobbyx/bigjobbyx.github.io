@@ -3,7 +3,7 @@ layout: page
 title: Juzo
 permalink: /juzo/
 ---
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,13 +12,13 @@ permalink: /juzo/
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            margin: 0px;
         }
 
         .color-grid {
             display: grid;
             grid-template-columns: repeat(1, 1fr);
-            gap: 20px;
+            gap: 0px;
         }
 
         @media (orientation: landscape) {
@@ -57,7 +57,7 @@ permalink: /juzo/
             {name: "Black pepper", code: "#000000"},
             {name: "White", code: "#ffffff"},
             {name: "Light Grey", code: "#DEDEDE"},
-            {name: "Luminous Orange", code: "#E54E31"},
+ 
             {name: "Pearl", code: "#9f8277"},
             {name: "Coffee creme", code: "#958072"},
             {name: "Sandel", code: "#ceb5a1"},
